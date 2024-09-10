@@ -1,11 +1,11 @@
-# Estructuracion de Carpetas
+# Estructuración de Carpetas
 
 mi_proyecto/
-│
-├── main.py
-├── zodiac/
-│   ├── __init__.py
-│   ├── signos.py   
+
+    main.py
+    zodiac/
+      __init__.py
+      signos.py   
 
 
 
