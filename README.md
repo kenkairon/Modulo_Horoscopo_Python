@@ -1,6 +1,7 @@
 # Estructuración de Carpetas
 
 mi_proyecto/
+
     main.py
     zodiac/
       __init__.py
